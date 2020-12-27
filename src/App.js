@@ -18,7 +18,7 @@ function App() {
         </a>{" "}
         by{" "}
         <a
-          href="https://www.linkedin.com/in/clodagh-murphy-4a96a715a/"
+          href="https://www.linkedin.com/in/jen-whitfield-2018/"
           target="_blank"
           rel="noopener noreferrer"
         >
