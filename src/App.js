@@ -10,7 +10,7 @@ function App() {
       </div>
       <footer>
         <a
-          href="https://github.com/clodaghsmurphy/react-weather-app"
+          href="https://github.com/scatteroflight/ReactWeatherAppSheCodes"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -23,7 +23,7 @@ function App() {
           rel="noopener noreferrer"
         >
           {" "}
-          Clodagh Muprhy{" "}
+          Jen Whitfield{" "}
         </a>
       </footer>
     </div>
